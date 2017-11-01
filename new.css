@@ -1,0 +1,13 @@
+h1 {
+	color: purple;
+}
+.logo {
+	display: block;
+}
+.logo img {
+	height: 266px;
+	width: 150px;
+
+	height: 150px;
+	width: 266px;
+}
