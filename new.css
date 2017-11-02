@@ -3,11 +3,21 @@ h1 {
 }
 .logo {
 	display: block;
+		margin: auto;
+
 }
 .logo img {
-	height: 266px;
-	width: 150px;
+	margin: auto;
+	height: 100%;
+	/*width: 266px;*/
+}
 
-	height: 150px;
-	width: 266px;
+.container-fluid {
+	padding-top: 40px;
+	margin-right: 6vw; 
+	margin-left: 6vw;
+}
+
+#menu {
+	padding: 1.5rem;
 }
