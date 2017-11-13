@@ -1,0 +1,49 @@
+h1 {
+	color: purple;
+}
+.logo {
+	display: block;
+	margin: auto;
+
+}
+.logo img {
+	margin: auto;
+	height: 100%;
+	/*width: 266px;*/
+}
+
+.container-fluid {
+	padding-top: 40px;
+	margin-right: 0;
+		margin-left: 0;
+}
+.nav-container{
+	display: inline;
+	display: flex; 
+	justify-content: flex-end;
+	padding-top: 15px;
+}
+.social-search {
+	display: flex;
+	justify-content: flex-end;
+}
+
+.links {
+	
+		justify-content: space-around;
+}
+
+#menu {
+	display: block;
+	width: auto;
+}
+@media (min-width: 991px) {
+	.container-fluid{
+		
+	margin-right: 8vw; 
+	margin-left: 8vw;
+	}
+
+}
+
+
